@@ -9,8 +9,8 @@ I'm a passionate programmer who transforms ideas into powerful software solution
 
 ## 📫 How to reach me
 - **Email:** ramayratjohnwayne@gmail.com
-- **LinkedIn:** https://github.com/WayneRamayrat/WayneRamayrat
-- **GitHub:** WayneRamayrat
+- **LinkedIn:** https://www.linkedin.com/in/john-wayne-ramayrat-58631a363/
+- **GitHub:** github.com/WayneRamayrat/WayneRamayrat
 
 ## ✨ Fun Facts
 - I enjoy solving coding challenges on platforms like LeetCode.
